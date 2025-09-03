@@ -21,13 +21,13 @@
     <div class="d-flex align-items-center">
       <div class="form-check form-check-inline mb-0">
         <label class="form-check-label">
-          <input class="form-check-input" type="radio" name="percent_type" id="radio-percent-type-time" value="time" checked>
+          <input class="form-check-input" type="radio" name="percent_type" id="radio-percent-type-time" value="time">
           <span class="badge badge-default">% of time</span>
         </label>
       </div>
       <div class="form-check form-check-inline mb-0">
         <label class="form-check-label">
-          <input class="form-check-input" type="radio" name="percent_type" id="radio-percent-type-actors" value="actors">
+          <input class="form-check-input" type="radio" name="percent_type" id="radio-percent-type-actors" value="actors" checked>
           <span class="badge badge-default">% of actors</span>
         </label>
       </div>
